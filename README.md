@@ -54,8 +54,8 @@ Trades and summary results are automatically logged to a connected Google Sheet:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/DivyanshiRw/Algo-Trading-System.git
+cd Algo-Trading-System
 ```
 
 ### 2. Install Dependencies
