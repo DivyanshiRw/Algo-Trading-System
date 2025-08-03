@@ -1,0 +1,10 @@
+yfinance
+pandas
+numpy
+scikit-learn
+xgboost
+gspread
+gspread-dataframe
+oauth2client
+google-auth
+openpyxl

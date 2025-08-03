@@ -1,0 +1,7 @@
+# Ignore Google Service Credentials
+gcreds.json
+
+# Ignore other system or Colab files
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
